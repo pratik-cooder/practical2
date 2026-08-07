@@ -1,0 +1,2 @@
+print("Bsc.CS student");
+
